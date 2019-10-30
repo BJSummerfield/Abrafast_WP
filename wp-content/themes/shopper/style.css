@@ -4720,6 +4720,8 @@ button.menu-toggle {
   table.shop_table_responsive tbody tr td,
   table.shop_table_responsive tbody tr th {
     text-align: left; }
+  #primary-widget-region {
+    display: none; }
   .mobile-only {
     display: none; }
   .site-header {
@@ -5347,6 +5349,8 @@ button.menu-toggle {
             color: white; } }
 
 @media (max-width: 768px) {
+  #woocommerce_product_categories-4 {
+    display: none; }
   .woocommerce ul.products li.product:hover .add-to-wishlist-custom {
     right: 5% !important; }
   .woocommerce ul.products li.product .loop-addtocart-btn-wrapper .button {
@@ -5753,3 +5757,5 @@ button.menu-toggle {
   border-radius: 10px;
   padding: 10px;
 }
+
+
