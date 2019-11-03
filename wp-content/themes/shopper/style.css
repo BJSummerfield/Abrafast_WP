@@ -5758,4 +5758,11 @@ button.menu-toggle {
   padding: 10px;
 }
 
+.price {
+  font-weight: bold;
+  font-size: larger;
+}
 
+.count {
+  display: none;
+}
